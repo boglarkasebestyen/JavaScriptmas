@@ -1,6 +1,6 @@
-/* Candies https://scrimba.com/scrim/cod1d4da69a5f4c8b9b416429
+/* Candies 
 
-https://scrimba.com/learn/adventcalendar/note-at-0-51-cod1d4da69a5f4c8b9b416429
+https://scrimba.com/scrim/cod1d4da69a5f4c8b9b416429
 
 DESCRIPTION:
 n children have got m pieces of candy. They want to eat as much candy as they can, but each child must eat exactly the same amount of candy as any other child.
