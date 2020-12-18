@@ -4,7 +4,7 @@
 
 In this repository I committed all my solutions to the exercises.
 
-**Scrimba's Advent Calendar with the exercises can be found [here](scrimba.com/learn/adventcalendar)**. 
+Scrimba's Advent Calendar with the exercises can be found [here](scrimba.com/learn/adventcalendar). 
  
 
 ## Day 1 - Candies
