@@ -1,6 +1,6 @@
 ## What is JavaScriptmas?
 
- JavaScriptmas is a 24-day long daily coding challenge organized by the Norwegian online coding school, [Scrimba](https://scrimba.com/), starting from December 1st until December 24th, 2020.  It strictly consists of JavaScript exercises, as its name suggests.
+ JavaScriptmas is a 24-day long, daily coding challenge organized by the Norwegian online coding school, [Scrimba](https://scrimba.com/), starting from December 1st until December 24th, 2020.  It strictly consists of JavaScript exercises, as its name suggests.
 
 In this repository I committed all my solutions to the exercises.
 
