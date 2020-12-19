@@ -128,7 +128,7 @@ Solution [here](https://scrimba.com/scrim/coadc4ae4a9ce2fc50709ca5d
 ).
 
 
-## Day 18 - Array previous less
+## Day 18 - Array Previous Less
 Given an array of integers, for each position i, search among the previous positions for the last (from the left) position
 that contains a smaller value. Store that value at position i in the answer. If no such value can be found, store -1 instead.
 
