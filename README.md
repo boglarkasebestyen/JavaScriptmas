@@ -136,7 +136,12 @@ Solution [here](https://scrimba.com/scrim/cod3741dcb9da7acefae9c8b2
 ).
 
 
-## Day 19
+## Day 19 - Alphabet Subsequence
+Check whether the given string is a subsequence of the plaintext alphabet.
+
+Solution [here](https://scrimba.com/scrim/coe1d4d189ecb6381a1e4edd2
+).
+
 
 ## Day 20
 
