@@ -7,7 +7,7 @@ Write a function that splits an array (first argument) into groups the length of
 Example:
 
 chunkyMonkey(["a", "b", "c", "d"],2) should return [["a", "b"], ["c", "d"]]
-chunkyMonkey([0,1,2,3,4,5],4) should return [[o,1,2,3], [4,5]]
+chunkyMonkey([0,1,2,3,4,5],4) should return [[0,1,2,3], [4,5]]
 
 Hints: slice()
 */
