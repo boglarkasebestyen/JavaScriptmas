@@ -154,7 +154,14 @@ Solution [here](https://scrimba.com/scrim/co551401a8299ce164324fa70
 ).
 
 
-## Day 21
+## Day 21 - Sum of 2
+You have two integer arrays, and b, and an integer target value v. Determine whether there is a pair of numbers, where
+one is taken from a and the other from b that can be added together to get a sum of v. Return true if such a pair exists,
+otherwise return false.
+
+Solution [here](https://scrimba.com/scrim/co40e47ae8fc3d510615205e2
+).
+
 
 ## Day 22
 
