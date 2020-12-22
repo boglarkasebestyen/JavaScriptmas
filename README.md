@@ -166,6 +166,8 @@ Solution [here](https://scrimba.com/scrim/co40e47ae8fc3d510615205e2
 
 ## Day 22
 
+## Day 23
+
 ## Day 24
 
 
