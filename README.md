@@ -164,7 +164,13 @@ Solution [here](https://scrimba.com/scrim/co40e47ae8fc3d510615205e2
 ).
 
 
-## Day 22
+## Day 22 - Extract Matrix Column
+Given a rectangular matrix and an integer column, return an array containing the elements of the columnth column of the 
+give matrix (the leftmost column is the 0th one).
+
+Solution [here](https://scrimba.com/scrim/co3214604b3337800d868111b
+).
+
 
 ## Day 23
 
