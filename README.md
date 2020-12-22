@@ -61,7 +61,8 @@ Solution [here](https://scrimba.com/scrim/coc7c44a9a5601b43790f2982
 ## Day 8 - Rolling Dice
 In this challenge a casino has asked you to make an online dice that works just like it would in real life. Using the pre-made dice face that represents ‘one’, make the faces for ‘two’, ‘three’, ‘four’, ‘five’ and ‘six’. Now, when the users click the dice on the screen, the dice is expected to show one of the faces randomly.
 
-Solution coming soon.
+Solution [here]https://scrimba.com/scrim/coab241ebab0c921b1223fbf1
+).
 
 
 ## Day 9 - Sum Odd Fibonacci
