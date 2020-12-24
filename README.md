@@ -181,7 +181,12 @@ Solution [here](https://scrimba.com/scrim/coef148d7b261bfbb3f375955
 ).
 
 
-## Day 24
+## Day 24 - Test Your Agility
+Make a counter that increments every 75 miliseconds in the spin() function and displays 
+whether the player wins or loses in the stop() function.
+
+Solution [here](https://scrimba.com/scrim/coa20470eae40b42c525beb79
+).
 
 
 
