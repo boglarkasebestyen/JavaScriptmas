@@ -172,7 +172,14 @@ Solution [here](https://scrimba.com/scrim/co3214604b3337800d868111b
 ).
 
 
-## Day 23
+## Day 23 - Social Media Input
+We are making a Social Media Character Counter! We want to display the available characters LEFT. Using the keydown() event should 
+help you here. When the characters reach 20 and below, we want them to turn red. So we will use Javascript to add that styling to it. 
+If the characters drop below 0, we want the button to be disabled BUT if there are only 0 characters left, we should still be able to tweet.
+
+Solution [here](https://scrimba.com/scrim/coef148d7b261bfbb3f375955
+).
+
 
 ## Day 24
 
