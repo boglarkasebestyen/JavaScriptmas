@@ -64,8 +64,8 @@ dotContainer[0].onclick = function() {
     }
 }
 
-
-//HTML:
+/*
+HTML:
 
 <html>
     <head>
@@ -124,6 +124,6 @@ body {
     
 }
 
-
+*/
 
 
