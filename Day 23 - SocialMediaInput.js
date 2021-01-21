@@ -80,7 +80,8 @@ I hope it's YOU!
 
 
 
-//HTML:
+/*
+HTML:
 
 <html>
     <head>
@@ -189,4 +190,4 @@ span {
     font-size: 1.3em; 
 }
 
-
+*/
