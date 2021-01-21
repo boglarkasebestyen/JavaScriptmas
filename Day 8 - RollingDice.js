@@ -64,8 +64,8 @@ dotContainer[0].onclick = function() {
     }
 }
 
-/*
-HTML:
+
+//HTML:
 
 <html>
     <head>
@@ -90,7 +90,9 @@ HTML:
 </html>
 
 
-CSS:
+
+//CSS:
+
 
 body {
     background-color: #AEB8FE;
@@ -122,6 +124,6 @@ body {
     
 }
 
-*/
+
 
 
