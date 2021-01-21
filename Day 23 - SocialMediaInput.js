@@ -78,9 +78,9 @@ I hope it's YOU!
     })
 })()
 
-/*
 
-HTML:
+
+//HTML:
 
 <html>
     <head>
@@ -97,7 +97,9 @@ HTML:
     </body>
 </html>
 
-CSS:
+
+//CSS:
+
 body {
     background-color: #17202A;
     font-family: sans-serif;
@@ -188,4 +190,3 @@ span {
 }
 
 
-*/
