@@ -1,11 +1,15 @@
 ## What is JavaScriptmas?🎄
 
- JavaScriptmas is a 24-day long, daily coding challenge organized by the Norwegian online coding school, [Scrimba](https://scrimba.com/), starting from December 1st until December 24th, 2020.  It strictly consists of JavaScript exercises, as its name suggests.
+![](https://github.com/boglarkasebestyen/JavaScriptmas/blob/main/advent_calendar.jpg) 
+
+
+JavaScriptmas is a 24-day long, daily coding challenge organized by the Norwegian online coding school, [Scrimba](https://scrimba.com/), starting from December 1st until December 24th, 2020.  It strictly consists of JavaScript exercises, as its name suggests.
 
 In this repository I committed all my solutions to the exercises.
+My certificate of completion can be viewed on [LinkedIn](https://www.linkedin.com/in/boglarkasebestyen/detail/treasury/education:704565535/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABR-O24B5lJdKfGO1T8zWdzj4YP4VShSJkM%2C1612728935549)&section=education%3A704565535&treasuryCount=1).
 
-Scrimba's Advent Calendar with the exercises can be found [here](scrimba.com/learn/adventcalendar). 
- 
+Scrimba's Advent Calendar containing all of the exercises can be found [here](scrimba.com/learn/adventcalendar). 
+
 
 ## Day 1 - Candies
 n children have got m pieces of candy. They want to eat as much candy as they can, but each child must eat exactly the same amount of candy as any other child. Determine how many pieces of candy will be eatin by all the children together. Individual pieces of candy cannot be split.
@@ -187,13 +191,3 @@ whether the player wins or loses in the stop() function.
 
 Solution [here](https://scrimba.com/scrim/coa20470eae40b42c525beb79
 ).
-
-
-
-
-
-
-
-
-
-
