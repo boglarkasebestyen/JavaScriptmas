@@ -6,7 +6,7 @@
 JavaScriptmas is a 24-day long, daily coding challenge organized by the Norwegian online coding school, [Scrimba](https://scrimba.com/), starting from December 1st until December 24th, 2020.  It strictly consists of JavaScript exercises, as its name suggests.
 
 In this repository I committed all my solutions to the exercises.
-My certificate of completion can be viewed on [LinkedIn](https://www.linkedin.com/in/boglarkasebestyen/detail/treasury/education:704565535/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAABR-O24B5lJdKfGO1T8zWdzj4YP4VShSJkM%2C1612728935549)&section=education%3A704565535&treasuryCount=1).
+My certificate of completion can be viewed on [LinkedIn](https://www.linkedin.com/in/boglarkasebestyen/).
 
 Scrimba's Advent Calendar containing all of the exercises can be found [here](scrimba.com/learn/adventcalendar). 
 
